@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/stock_app/static/css/main.0cefabf2.chunk.css",
+    "main.js": "/stock_app/static/js/main.0dbf835c.chunk.js",
+    "main.js.map": "/stock_app/static/js/main.0dbf835c.chunk.js.map",
+    "runtime-main.js": "/stock_app/static/js/runtime-main.99895b92.js",
+    "runtime-main.js.map": "/stock_app/static/js/runtime-main.99895b92.js.map",
+    "static/css/2.de424728.chunk.css": "/stock_app/static/css/2.de424728.chunk.css",
+    "static/js/2.d2663168.chunk.js": "/stock_app/static/js/2.d2663168.chunk.js",
+    "static/js/2.d2663168.chunk.js.map": "/stock_app/static/js/2.d2663168.chunk.js.map",
+    "index.html": "/stock_app/index.html",
+    "precache-manifest.ffbe545f2c114ac8f6d1f2b4ef5000fe.js": "/stock_app/precache-manifest.ffbe545f2c114ac8f6d1f2b4ef5000fe.js",
+    "service-worker.js": "/stock_app/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/stock_app/static/css/2.de424728.chunk.css.map",
+    "static/css/main.0cefabf2.chunk.css.map": "/stock_app/static/css/main.0cefabf2.chunk.css.map",
+    "static/js/2.d2663168.chunk.js.LICENSE.txt": "/stock_app/static/js/2.d2663168.chunk.js.LICENSE.txt",
+    "static/media/SymbolList.csv": "/stock_app/static/media/SymbolList.63632325.csv",
+    "static/media/test.csv": "/stock_app/static/media/test.247ab07c.csv",
+    "static/media/testLrg.csv": "/stock_app/static/media/testLrg.3a1645da.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99895b92.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.d2663168.chunk.js",
+    "static/css/main.0cefabf2.chunk.css",
+    "static/js/main.0dbf835c.chunk.js"
+  ]
+}
